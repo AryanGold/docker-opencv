@@ -1,5 +1,5 @@
 LOCAL_NAME=opencv
-VERSION=master-cuda9.2-cudnn7
+VERSION=3.4.3-cuda8.0-cudnn7
 PUBLIC_NAME=docker-opencv
 REPOSITORY=aryangold
 
